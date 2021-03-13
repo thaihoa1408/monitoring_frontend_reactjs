@@ -1,0 +1,14 @@
+.sitekpi{
+    position: absolute;
+    left: 210px; 
+    top: 60px;   
+}
+.background-sitekpi{
+    background: transparent;
+    background-image: linear-gradient(to left,#184071,#046365);
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    z-index: -1;
+}
